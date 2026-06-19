@@ -15,3 +15,5 @@ This project is a computer vision-based gesture control system designed to contr
 - MediaPipe
 - ESP32 (flashed with Tasmota firmware)
 - Windows (for the VBScript background launcher)
+
+<!-- Repository maintenance update -->
