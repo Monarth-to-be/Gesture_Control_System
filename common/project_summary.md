@@ -16,4 +16,4 @@ This project is a computer vision-based gesture control system designed to contr
 - ESP32 (flashed with Tasmota firmware)
 - Windows (for the VBScript background launcher)
 
-<!-- Repository maintenance update -->
+<!-- Repository maintenance update: Basic commit test -->
